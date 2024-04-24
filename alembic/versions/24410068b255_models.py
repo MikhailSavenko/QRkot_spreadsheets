@@ -1,4 +1,4 @@
-"""models+больше нуля сумма+False investe
+"""models
 
 Revision ID: 24410068b255
 Revises: 
